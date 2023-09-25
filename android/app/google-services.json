@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437934778129",
+    "project_id": "gnmatufinal",
+    "storage_bucket": "gnmatufinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437934778129:android:0b16a2c9b26629f50c4eb0",
+        "android_client_info": {
+          "package_name": "in.gyanmeeti.gm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavjh9LhNCIpVl8IG_Mr3TlpFcIWbnUho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
